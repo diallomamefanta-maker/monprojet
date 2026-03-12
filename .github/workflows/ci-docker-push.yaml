@@ -14,7 +14,7 @@ jobs:
     env:
       IMAGE_NAME: ci-html-demo
       IMAGE_TAG: latest
-      DOCKER_REGISTRY: fanta19
+      DOCKER_REGISTRY: fanta1
 
     steps:
       - name: Récupération du code
