@@ -7,7 +7,7 @@ on:
 
 jobs:
   docker:
-    runs-on: [self-hosted, Windows, X64, fifi-1]
+    runs-on: fifi-1
 
     #environment: dev
 
